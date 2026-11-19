@@ -1,0 +1,7 @@
+{
+  "plugin.dnsexit-dns.name": "DNSExit",
+  "plugin.dnsexit-dns.description": "通过 DNSExit 完成 ACME DNS-01 验证。",
+  "plugin.dnsexit-dns.access.apiKey.label": "DNSExit API Key",
+  "plugin.dnsexit-dns.access.apiKey.tooltip": "这是什么？请参阅 <a href=\"https://dnsexit.com/Direct.sv?cmd=userApiKey\" target=\"_blank\">https://dnsexit.com/Direct.sv?cmd=userApiKey</a>",
+  "plugin.dnsexit-dns.access.apiKey.placeholder": "请输入 DNSExit API Key"
+}

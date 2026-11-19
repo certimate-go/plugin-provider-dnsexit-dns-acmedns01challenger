@@ -1,0 +1,7 @@
+{
+  "plugin.dnsexit-dns.name": "DNSExit",
+  "plugin.dnsexit-dns.description": "ACME DNS-01 via DNSExit.",
+  "plugin.dnsexit-dns.access.apiKey.label": "DNSExit API key",
+  "plugin.dnsexit-dns.access.apiKey.tooltip": "For more information, see <a href=\"https://dnsexit.com/Direct.sv?cmd=userApiKey\" target=\"_blank\">https://dnsexit.com/Direct.sv?cmd=userApiKey</a>",
+  "plugin.dnsexit-dns.access.apiKey.placeholder": "Please enter DNSExit API key"
+}

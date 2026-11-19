@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "dnsexit",
+  "binary": "dnsexit-dns.exe",
+  "capability": "dns",
+  "description": "ACME DNS-01 via DNSExit.",
+  "display_name_key": "plugin.dnsexit-dns.name",
+  "icon": "icon.png",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "dnsexit-dns",
+  "provider_aliases": [
+    "dnsexit"
+  ],
+  "usages": [
+    "dns"
+  ],
+  "version": "0.1.0"
+}
